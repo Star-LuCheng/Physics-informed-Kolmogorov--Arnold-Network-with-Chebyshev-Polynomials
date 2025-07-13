@@ -1,0 +1,1 @@
+# Physics-informed-Kolmogorov--Arnold-Network-with-Chebyshev-Polynomials
